@@ -53,7 +53,3 @@ class Sistema_de_puntos:
 prueba = Sistema_de_puntos()
 prueba.principal()
 
-
-ill be the team with the highest accumulated points at the end.
-#  Each team will play 3 matches against every opponent. 
-#  After the matches, the system will display on-screen the team standings from highest to lowest points.
